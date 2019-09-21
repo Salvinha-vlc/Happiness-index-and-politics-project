@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # World Happiness and Politics
-*Chaoting Chang, Salvador Rocher, Fabia Höhne Tarragona*
+*Chaoting Chang, Salvador Rocher, Fabia Höhne*
 
 *Data Analytics, July 2019, Barcelona*
 
@@ -68,7 +68,6 @@ How did you organize yourself? Did you use any tools?
 <a name="links"></a>
 
 ## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
 [Repository](https://github.com/Salvinha-vlc/Happiness-index-and-politics-project)  
 [Slides](https://docs.google.com/presentation/d/128og0_MkVLuodsIKoku5t27pHMXX3khKQR_4SCVlKAA)  
