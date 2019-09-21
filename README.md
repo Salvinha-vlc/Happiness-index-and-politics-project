@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*Chaoting Chang, Salva Rocher, Fabia Höhne Tarragona*
+# World happiness and politics
+*Chaoting Chang, Salvador Rocher, Fabia Höhne Tarragona*
 
-*Data, June 2019, Barcelona*
+*Data Analytics, July 2019, Barcelona*
 
 ## Content
 - [Project Description](#project-description)
@@ -83,9 +83,8 @@ How did you organize yourself? Did you use any tools?
 
 ##### organization:
 
- - group repo
- - group trello with DEADLINES 
- - group slides 
+ - Trello with DEADLINES 
+
 
 
 ##### Tools:
@@ -101,6 +100,6 @@ How did you organize yourself? Did you use any tools?
 ## Links
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-[Repository](https://github.com/FHnt97/Project-Week-3-Data-Thieves)  
-[Slides](https://slides.com/...)  
+[Repository](https://github.com/Salvinha-vlc/Happiness-index-and-politics-project)  
+[Slides](https://docs.google.com/presentation/d/128og0_MkVLuodsIKoku5t27pHMXX3khKQR_4SCVlKAA)  
 [Trello](https://trello.com/b/3HqvjLu2/project-3)  
