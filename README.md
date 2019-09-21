@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# World happiness and politics
+# World Happiness and Politics
 *Chaoting Chang, Salvador Rocher, Fabia Höhne Tarragona*
 
 *Data Analytics, July 2019, Barcelona*
@@ -17,11 +17,7 @@
 
 ## Project Description
 
-Topic: Politics and national hapiness
-
-
-We are trying to find relevant datasets to analyse on a time relevant and socially relevant topic that affects countries in europe at the current time (See hypothesis and question below). 
-
+We are trying to explore relationships between happiness of a nation in a macro scale and the ideology of the political parties voted in the elections. In particular, how that happiness relates to the presence or support of extremists parties.
 
 <a name="hypotheses-/-questions"></a>
 
@@ -30,48 +26,24 @@ We are trying to find relevant datasets to analyse on a time relevant and social
 
 **Is there a correlation between the happiness of a country and the voting polls of extreme political parties?**
 
-        1.1 Within a single country - introspective
-        1.2 In comparison to other countries in the European union – external comparison (extrospective)
-        
-
-
-*Look for:*
-
-        - Trends over time (two time intervals btw 2012 and 2019)
-
-        - Countries of the European union: Spain, Greece, Denmark, Austria, Netherlands
-
-
 
 **Hypothesis:**   
 
 There is a negative correlation between extremism (both left and right) and the happiness of a country.
 
-
-#### Extra Mile challenge:
-        1.Extend to all EU countries  
-          We had extened 5 more countries (Poland, Sweden, Italy, Belgium and France).
-        2.Extend over a longer period of time
-          As the Happiness index used different formula before 2010, we decided only use data from 2010.
-        3.Trend prediction for future years
-
 <a name="dataset"></a>
 
 ## Dataset
-Where did you get your data? What dataset did you use or did you build your own datset? If so, did you use an API? Did you scrape a web? Provide links to the data if available.
-   
-   - CSV.: happiness report 2006-2017, election data
+
+   - CSV: happiness report 2010-2017, election data
    
    - Web scrapping: happiness report 2018
 
-
-
-[Dataset]() 
+(more details can be found in the paper "7. Paper.json")
 
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?  
 
 See Trello (link below)
 
@@ -86,13 +58,11 @@ How did you organize yourself? Did you use any tools?
  - Trello with DEADLINES 
 
 
-
 ##### Tools:
  - Trello
  - Pycharm
  - SQL workbench
  - Jupyter Notebook
- - Stackoverflow
  - Google slides
 
 <a name="links"></a>
