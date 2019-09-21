@@ -27,7 +27,7 @@ We are trying to explore relationships between happiness of a nation in a macro 
 **Is there a correlation between the happiness of a country and the voting polls of extreme political parties?**
 
 
-**Hypothesis:**   
+**Hypothesis:**
 
 There is a negative correlation between extremism (both left and right) and the happiness of a country.
 
